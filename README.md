@@ -1,2 +1,5 @@
-# imitate
- ai based text generator to imitate chats
+# Imitate
+ Imitate is a small personal project where I try to imitate my friends text messaging patterns using an ai. This was made possible due to the relatively huge amount of text messages that has been sent among us within a span of almost 7 years. I would also like to clarify that I pulled all the messages and started this project with their consent, not sure if that matters or not but I thought it had to be said
+
+ ## Part 01: Messages and Text Cleaning
+ This part involve collecting text messages of the group of people you would want to imitate, and then processing and cleaning the data. Most of the popular messaging apps have a feature where you are able to export a record of all messages sent within the group. In my case I have collected messages from WhatsApp and Telegram and will go through how to clean and process these two very different forms of outputs.
